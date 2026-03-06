@@ -29,8 +29,9 @@ O objetivo deste projeto é analisar os fatores que influenciam a evasão (churn
   ➢ média, mediana, desvio padrão, mínimo e máximo das variáveis numéricas.
   
  **Distribuição do churn**:
- 
+
   ➢ 7043 clientes analisados:
+  
   ➢ 5174 clientes permaneceram (~73,5%)  
   ➢ 1869 clientes cancelaram (~26,5%)
     
